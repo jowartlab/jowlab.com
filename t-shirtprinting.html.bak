@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Web Design | Jow Lab</title>
+  <title>Social Media Graphics | Jow Lab</title>
   <style>
     body {
       font-family: 'Poppins', sans-serif;
@@ -32,11 +32,11 @@
   </style>
 </head>
 <body>
-  <h1>Web Design Gallery</h1>
-  <p>Here are some of our creative Website designs:</p>
-  <img src="image\web1.jpg" alt="Web Design 1">
-  <img src="image\web2.jpg" alt="Web Design 2">
-  <img src="image\web3.jpg" alt="Web Design 3">
+  <h1>T-shirt Printing Gallery</h1>
+  <p>Here are some of our creative T-shirt Printing:</p>
+  <img src="image\t-shirt1.jpg" alt="T-shirt 1">
+  <img src="image\t-shirt2.jpg" alt="T-shirt 2">
+  <img src="image\t-shirt3.jpg" alt="T-shirt 3">
   <br>
   <a href="index.html">⬅ Back to Home</a>
 </body>
